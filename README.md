@@ -116,7 +116,7 @@ proporcaosolicitadototal > -0.15: 0.012861067288582233
 estadocivil > 2.00: -0.007379514951608611
 valorsolicitado > 0.26: 0.00608139731745802
 ```
-Estamos utilizando a biblioteca ```lime```, cuja função é tornar modelos de machine learning mais interpretáveis e explicáveis, fornecendo insights de como as previsões são feitas, assegurando aos usuários nos modelos preditivos.
+Estamos utilizando a biblioteca ```lime```, cuja função é tornar modelos de machine learning mais interpretáveis e explicáveis, fornecendo insights de como as previsões são feitas, assegurando os usuários nos modelos preditivos.
 
 Para rodar a nossa API, execute:
 ```bash
